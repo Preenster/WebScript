@@ -6,7 +6,7 @@ To install, insert the following code on the page before closing «body» tag:
 
 ``` js
  	var _preensterConfig = _preensterConfig || {};
-	_preensterConfig.scriptsPath = 'http://web.preenster.com/script';
+	_preensterConfig.scriptsPath = 'http://preenster.com/script';
 	_preensterConfig.host = document.location.hostname;
 
 	(function() {
@@ -30,7 +30,7 @@ For example:
 
 <script>
  	var _preensterConfig = _preensterConfig || {};
-	_preensterConfig.scriptsPath = 'http://web.preenster.com/script';
+	_preensterConfig.scriptsPath = 'http://preenster.com/script';
 	_preensterConfig.host = document.location.hostname;
 
 	(function() {
